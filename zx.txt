@@ -1,1 +1,7 @@
 helloooo
+<<<<<<< HEAD
+=======
+sjcet
+edamaruku
+paika
+>>>>>>> 9ef2196a205675232524eabbfc0dd88123ccb7bf
